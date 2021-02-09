@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f80b335d-3ccd-4789-9e7c-cc4b753f56a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/LoginTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/kolyo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/kolyo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/BaseUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/pages/Admin/AdminDashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/pages/admin/AdminDashboardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/pages/Admin/AdminLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/pages/admin/AdminLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/pages/FrontPage/AccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/pages/frontpage/AccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/pages/FrontPage/FrontPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/pages/frontpage/FrontPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/selectors/frontpage/FrontPageSelectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/selectors/frontpage/FrontPageSelectors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/selenium/admin/AdminLoginPageUnsuccessfulLoginStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/selenium/admin/AdminLoginPageUnsuccessfulLoginStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/selenium/e2e/SuccessfulEditionOfAPriceStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/selenium/e2e/SuccessfulEditionOfAPriceStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/AccountPageStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/AccountPageStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageStepUnsuccessfulLoginStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageStepUnsuccessfulLoginStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/BaseUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/pages/Admin/AdminDashboardPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/pages/Admin/AdminDashboardPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/pages/Admin/AdminLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/pages/Admin/AdminLoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/pages/FrontPage/AccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/pages/FrontPage/AccountPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/pages/FrontPage/FrontPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/pages/FrontPage/FrontPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium/selectors/frontpage/FrontPageSelectors.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/selectors/frontpage/FrontPageSelectors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/selenium/admin/AdminLoginPageUnsuccessfulLoginStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/selenium/admin/AdminLoginPageUnsuccessfulLoginStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/selenium/e2e/SuccessfulEditionOfAPriceStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/selenium/e2e/SuccessfulEditionOfAPriceStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/selenium/frontpage/AccountPageStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/selenium/frontpage/AccountPageStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/selenium/frontpage/FrontPageStepUnsuccessfulLoginStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/selenium/frontpage/FrontPageStepUnsuccessfulLoginStepDefinitions.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageStepUnsuccessfulLoginStepDefinitions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-117">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test/selenium/e2e/SuccessfulEditionOfAPriceStepDefinitions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="120" column="33" lean-forward="true" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/selenium/pages/frontpage/FrontPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="51" column="60" lean-forward="true" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/selenium/selectors/frontpage/FrontPageSelectors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-239">
+              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Admi</find>
+      <find>Credentials</find>
+      <find>\\</find>
+      <find>su</find>
+      <find>login</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\kolyo\phptravels\src\main\resources</dir>
+      <dir>C:\Users\kolyo\phptravels\src\test\java\test\selenium</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/selenium/Pages/Admin/AdminLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/Data/Data.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/admin/AdminLoginPageStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/Features/Admin/LoginPage/AdminLoginPage.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/admin/AdminLoginPageUnssuccesfulLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/admin/loginpage/AdminLoginPageUnssuccessfulLogin.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/frontpage/FrontLoginPageUnsuccessfulLogin.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/FrontPageStepUnsuccessfulloginDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageStepUnsuccessfulloginDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageStepUnsuccessfullyDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/admin/AdminLoginPageUnsuccessfulLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/admin/AdminLoginPageUnsuccessfulLoginStepsDefinition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/pages/Admin/AdminLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/data/Data.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/e2e/EditingPriceOfRoomInAdminAndVerifyingTheEditionInFrontPage.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/base/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/pages/Admin/AdminDashboardPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/TestClase.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/admin/AdminLoginPageUnssuccessfulLogin.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/SuccesssfulLoginInTheFrontPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/SuccesssfulLoginInTheFrontPage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/admin/AdminSuccessfulLogin.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/SuccessfulLoginInTheFrontPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageSuccessfulLogin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/pages/FrontPage/AccountsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageSuccessfulLoginStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/frontpage/FrontPageSuccessfulLogin.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/AccountPageStepDefenitions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/frontpage/AccountPage.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/cucumberrunner/CucumberRunner.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/pages/FrontPage/AccountPage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/e2e/SuccessfulEditionOfAPrice.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/pages/FrontPage/FrontPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/pages/frontpage/AccountPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/BaseUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/Browser/Browser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/AccountPageStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/e2e/SuccessfulEditionOfAPriceStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageStepUnsuccessfulLoginStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/pages/admin/AdminDashboardPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/pages/frontpage/FrontPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/browser/Browser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/LoginTool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/pages/admin/AdminLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/selenium/admin/AdminLoginPageUnsuccessfulLoginStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/WaitTool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/selectors/frontpage/FrontPageSelectors.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/selectors/admin/AdminSelectors.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="phptravels" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumberrunner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="frontpage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="selectors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="selectors" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="selectors" type="462c0819:PsiDirectoryNode" />
+              <item name="frontpage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="frontpage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="frontpage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/test/selenium/admin" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kolyo\phptravels\src\test\resources\features\frontpage" />
+      <recent name="C:\Users\kolyo\phptravels\src\test\resources\features\admin" />
+      <recent name="C:\Users\kolyo\phptravels\src\test\resources\features" />
+      <recent name="C:\Users\kolyo\phptravels\src\test\java\test\selenium\frontpage" />
+      <recent name="C:\Users\kolyo\phptravels\src\test\resources\features\admin\loginpage" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle tasks" flag="false" />
+      <visibility group="Maven goals" flag="false" />
+      <visibility group="Recent projects" flag="false" />
+      <visibility group="Run configurations" flag="false" />
+    </myKeys>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Editing price of a room in Admin and verifying the edition in front page">
+    <configuration name="All Features in: features" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features" />
+      <option name="GLUE" value="test.selenium.admin test.selenium.frontpage test.selenium.e2e" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="phptravels" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: AccountPage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/frontpage/AccountPage.feature" />
+      <option name="GLUE" value="test.selenium.frontpage" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="phptravels" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: AccountPage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: AdminLoginPageUnssuccessfulLogin" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/admin/AdminLoginPageUnssuccessfulLogin.feature" />
+      <option name="GLUE" value="test.selenium.admin test.selenium.frontpage" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="phptravels" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: AdminLoginPageUnssuccessfulLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: AdminSuccessfulLogin" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/frontpage/AdminSuccessfulLogin.feature" />
+      <option name="GLUE" value="test.selenium.frontpage" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="phptravels" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: AdminSuccessfulLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: FrontLoginPageUnsuccessfulLogin" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/frontpage/FrontLoginPageUnsuccessfulLogin.feature" />
+      <option name="GLUE" value="test.selenium.frontpage" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="phptravels" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: FrontLoginPageUnsuccessfulLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: SuccessfulEditionOfAPrice" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/e2e/SuccessfulEditionOfAPrice.feature" />
+      <option name="GLUE" value="test.selenium.e2e" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="phptravels" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: SuccessfulEditionOfAPrice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Editing price of a room in Admin and verifying the edition in front page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/e2e/SuccessfulEditionOfAPrice.feature" />
+      <option name="GLUE" value="test.selenium.admin test.selenium.frontpage test.selenium.e2e" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="phptravels" />
+      <option name="NAME_FILTER" value="^Editing price of a room in Admin and verifying the edition in front page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter --name &quot;^Editing price of a room in Admin and verifying the edition in front page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Editing price of a room in Admin and verifying the edition in front page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberRunner" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="phptravels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumberrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cucumberrunner" />
+      <option name="MAIN_CLASS_NAME" value="cucumberrunner.CucumberRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: AccountPage" />
+      <item itemvalue="Cucumber java.Feature: AdminSuccessfulLogin" />
+      <item itemvalue="Cucumber java.All Features in: features" />
+      <item itemvalue="Cucumber java.Feature: AdminLoginPageUnssuccessfulLogin" />
+      <item itemvalue="Cucumber java.Feature: FrontLoginPageUnsuccessfulLogin" />
+      <item itemvalue="Cucumber java.Feature: SuccessfulEditionOfAPrice" />
+      <item itemvalue="JUnit.CucumberRunner" />
+      <item itemvalue="Cucumber java.Scenario: Editing price of a room in Admin and verifying the edition in front page" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Editing price of a room in Admin and verifying the edition in front page" />
+        <item itemvalue="Cucumber java.All Features in: features" />
+        <item itemvalue="Cucumber java.Feature: SuccessfulEditionOfAPrice" />
+        <item itemvalue="Cucumber java.Feature: AdminLoginPageUnssuccessfulLogin" />
+        <item itemvalue="Cucumber java.Feature: FrontLoginPageUnsuccessfulLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f80b335d-3ccd-4789-9e7c-cc4b753f56a3" name="Default Changelist" comment="" />
+      <created>1545588094861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545588094861</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__features - 2019.01.16 at 11h 40m 14s.xml">
+      <configuration name="All Features in: features" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__AdminLoginPageUnssuccessfulLogin - 2019.01.16 at 11h 42m 20s.xml">
+      <configuration name="Feature: AdminLoginPageUnssuccessfulLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__AdminLoginPageUnssuccessfulLogin - 2019.01.16 at 11h 43m 58s.xml">
+      <configuration name="Feature: AdminLoginPageUnssuccessfulLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__AdminLoginPageUnssuccessfulLogin - 2019.01.16 at 11h 46m 22s.xml">
+      <configuration name="Feature: AdminLoginPageUnssuccessfulLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__AdminLoginPageUnssuccessfulLogin - 2019.01.16 at 11h 48m 17s.xml">
+      <configuration name="Feature: AdminLoginPageUnssuccessfulLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__AdminLoginPageUnssuccessfulLogin - 2019.01.16 at 11h 54m 44s.xml">
+      <configuration name="Feature: AdminLoginPageUnssuccessfulLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__SuccessfulEditionOfAPrice - 2019.01.16 at 11h 57m 02s.xml">
+      <configuration name="Feature: SuccessfulEditionOfAPrice" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__SuccessfulEditionOfAPrice - 2019.01.16 at 12h 01m 21s.xml">
+      <configuration name="Feature: SuccessfulEditionOfAPrice" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__features - 2019.01.16 at 12h 03m 59s.xml">
+      <configuration name="All Features in: features" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Editing_price_of_a_room_in_Admin_and_verifying_the_edition_in_front_page - 2019.01.16 at 13h 51m 05s.xml">
+      <configuration name="Scenario: Editing price of a room in Admin and verifying the edition in front page" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.2437247" />
+      <window_info id="Structure" order="1" sideWeight="0.5008881" side_tool="true" weight="0.26639676" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.18472469" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.35523978" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4973357" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3268206" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50040483" side_tool="true" weight="0.32149202" />
+      <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3250444" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49612403" weight="0.24939272" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32901135" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="5" sideWeight="0.503876" side_tool="true" weight="0.24939272" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.32955465" />
+      <window_info id="Structure" order="1" sideWeight="0.5008881" side_tool="true" weight="0.26639676" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.18472469" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3676732" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.120781526" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3268206" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49612403" weight="0.24939272" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32901135" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="5" sideWeight="0.503876" side_tool="true" weight="0.24939272" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/pages.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/selectors/ss" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/selectors/Admin/Dashboard/AdminSelectors.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/selenium/admin/AdminLoginPageStepsDefemitions.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-java/1.2.0/cucumber-java-1.2.0.jar!/cucumber/runtime/java/MethodScanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/TestClass.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/http/AbstractHttpResponseCodec.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/BaseClass.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-java/1.2.0/cucumber-java-1.2.0.jar!/cucumber/runtime/java/DefaultJavaObjectFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/RuntimeOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="467" selection-start-line="467" selection-end-line="467" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/config.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/TestClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/TestClase.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/pages/FrontPage/AccountsPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageSuccessfulLoginStepDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/Hooks.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/frontpage/FrontLoginPageUnsuccessfulLogin.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.0/cucumber-core-1.2.0.jar!/cucumber/runtime/model/CucumberScenario.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.2.0/cucumber-core-4.2.0.jar!/cucumber/runtime/model/FeatureBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="82" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/e2e/SuccessfulEditionOfAPrice.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/frontpage/AccountPage.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/BaseUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/admin/AdminLoginPageUnssuccessfulLogin.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cucumberrunner/CucumberRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/pages/admin/AdminDashboardPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/data/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/pages/frontpage/AccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/pages/admin/AdminLoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/browser/Browser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1311#1312#0" expanded="true" />
+            <element signature="e#1340#1341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/selenium/frontpage/AccountPageStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/LoginTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/selenium/admin/AdminLoginPageUnsuccessfulLoginStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/selectors/admin/AdminSelectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="11" column="87" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/selenium/e2e/SuccessfulEditionOfAPriceStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="120" column="33" lean-forward="true" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/pages/frontpage/FrontPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="51" column="60" lean-forward="true" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/selectors/frontpage/FrontPageSelectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/WaitTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageStepUnsuccessfulLoginStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
