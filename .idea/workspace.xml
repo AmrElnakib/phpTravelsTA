@@ -1,89 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f80b335d-3ccd-4789-9e7c-cc4b753f56a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/LoginTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/kolyo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/kolyo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/base/BaseUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/base/Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/pages/Admin/AdminDashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/pages/admin/AdminDashboardPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/pages/Admin/AdminLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/pages/admin/AdminLoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/pages/FrontPage/AccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/pages/frontpage/AccountPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/pages/FrontPage/FrontPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/pages/frontpage/FrontPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/selectors/frontpage/FrontPageSelectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/selectors/frontpage/FrontPageSelectors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/selenium/admin/AdminLoginPageUnsuccessfulLoginStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/selenium/admin/AdminLoginPageUnsuccessfulLoginStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/selenium/e2e/SuccessfulEditionOfAPriceStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/selenium/e2e/SuccessfulEditionOfAPriceStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/AccountPageStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/AccountPageStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageStepUnsuccessfulLoginStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageStepUnsuccessfulLoginStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/BaseUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/selenium/pages/Admin/AdminDashboardPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/pages/Admin/AdminDashboardPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/selenium/pages/Admin/AdminLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/pages/Admin/AdminLoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/selenium/pages/FrontPage/AccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/pages/FrontPage/AccountPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/selenium/pages/FrontPage/FrontPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/pages/FrontPage/FrontPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/selenium/selectors/frontpage/FrontPageSelectors.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/selenium/selectors/frontpage/FrontPageSelectors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/selenium/admin/AdminLoginPageUnsuccessfulLoginStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/selenium/admin/AdminLoginPageUnsuccessfulLoginStepDefinitions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/selenium/e2e/SuccessfulEditionOfAPriceStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/selenium/e2e/SuccessfulEditionOfAPriceStepDefinitions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/selenium/frontpage/AccountPageStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/selenium/frontpage/AccountPageStepDefinitions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/selenium/frontpage/FrontPageStepUnsuccessfulLoginStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/selenium/frontpage/FrontPageStepUnsuccessfulLoginStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phptravels.iml" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test/selenium/frontpage/FrontPageStepUnsuccessfulLoginStepDefinitions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-117">
-              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test/selenium/e2e/SuccessfulEditionOfAPriceStepDefinitions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="120" column="33" lean-forward="true" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/selenium/pages/frontpage/FrontPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="51" column="60" lean-forward="true" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/selenium/selectors/frontpage/FrontPageSelectors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-239">
-              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -170,13 +99,6 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -194,6 +116,7 @@
     <option name="width" value="1944" />
     <option name="height" value="1044" />
   </component>
+  <component name="ProjectId" id="26hIpS6vPajO6lINPu25P3Jt2s7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -425,8 +348,15 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/test/selenium/admin" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -449,19 +379,7 @@
       <visibility group="Run configurations" flag="false" />
     </myKeys>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Cucumber java.Scenario: Editing price of a room in Admin and verifying the edition in front page">
+  <component name="RunManager" selected="JUnit.CucumberRunner">
     <configuration name="All Features in: features" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="3" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features" />
@@ -604,26 +522,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Cucumber java.Feature: AccountPage" />
-      <item itemvalue="Cucumber java.Feature: AdminSuccessfulLogin" />
-      <item itemvalue="Cucumber java.All Features in: features" />
-      <item itemvalue="Cucumber java.Feature: AdminLoginPageUnssuccessfulLogin" />
-      <item itemvalue="Cucumber java.Feature: FrontLoginPageUnsuccessfulLogin" />
-      <item itemvalue="Cucumber java.Feature: SuccessfulEditionOfAPrice" />
+      <item itemvalue="Cucumber Java.Feature: AccountPage" />
+      <item itemvalue="Cucumber Java.Feature: AdminSuccessfulLogin" />
+      <item itemvalue="Cucumber Java.All Features in: features" />
+      <item itemvalue="Cucumber Java.Feature: AdminLoginPageUnssuccessfulLogin" />
+      <item itemvalue="Cucumber Java.Feature: FrontLoginPageUnsuccessfulLogin" />
+      <item itemvalue="Cucumber Java.Feature: SuccessfulEditionOfAPrice" />
+      <item itemvalue="Cucumber Java.Scenario: Editing price of a room in Admin and verifying the edition in front page" />
       <item itemvalue="JUnit.CucumberRunner" />
-      <item itemvalue="Cucumber java.Scenario: Editing price of a room in Admin and verifying the edition in front page" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Cucumber java.Scenario: Editing price of a room in Admin and verifying the edition in front page" />
-        <item itemvalue="Cucumber java.All Features in: features" />
-        <item itemvalue="Cucumber java.Feature: SuccessfulEditionOfAPrice" />
-        <item itemvalue="Cucumber java.Feature: AdminLoginPageUnssuccessfulLogin" />
-        <item itemvalue="Cucumber java.Feature: FrontLoginPageUnsuccessfulLogin" />
-      </list>
-    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -725,22 +646,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
